@@ -1,1 +1,0 @@
-# juego-de-la-serpiente
